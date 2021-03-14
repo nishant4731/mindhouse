@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/mindhouse/static/css/main.51ca7b20.chunk.css",
+    "main.js": "/mindhouse/static/js/main.5fda98a7.chunk.js",
+    "main.js.map": "/mindhouse/static/js/main.5fda98a7.chunk.js.map",
+    "runtime-main.js": "/mindhouse/static/js/runtime-main.6622548e.js",
+    "runtime-main.js.map": "/mindhouse/static/js/runtime-main.6622548e.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/mindhouse/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.12fca71c.chunk.js": "/mindhouse/static/js/2.12fca71c.chunk.js",
+    "static/js/2.12fca71c.chunk.js.map": "/mindhouse/static/js/2.12fca71c.chunk.js.map",
+    "static/js/3.0fd5b53c.chunk.js": "/mindhouse/static/js/3.0fd5b53c.chunk.js",
+    "static/js/3.0fd5b53c.chunk.js.map": "/mindhouse/static/js/3.0fd5b53c.chunk.js.map",
+    "index.html": "/mindhouse/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/mindhouse/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.51ca7b20.chunk.css.map": "/mindhouse/static/css/main.51ca7b20.chunk.css.map",
+    "static/js/2.12fca71c.chunk.js.LICENSE.txt": "/mindhouse/static/js/2.12fca71c.chunk.js.LICENSE.txt",
+    "static/media/meditation.aa8c0d32.jpg": "/mindhouse/static/media/meditation.aa8c0d32.jpg",
+    "static/media/nutrition.c1de06f3.jpg": "/mindhouse/static/media/nutrition.c1de06f3.jpg",
+    "static/media/therapy.335208a2.png": "/mindhouse/static/media/therapy.335208a2.png",
+    "static/media/yoga.7754aece.jpg": "/mindhouse/static/media/yoga.7754aece.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6622548e.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.12fca71c.chunk.js",
+    "static/css/main.51ca7b20.chunk.css",
+    "static/js/main.5fda98a7.chunk.js"
+  ]
+}
